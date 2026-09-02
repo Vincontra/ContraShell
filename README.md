@@ -4,7 +4,6 @@ A lightweight command-line shell built in Java.
 
 ContraShell is a learning-oriented shell implementation that demonstrates how a command-line shell receives user input, identifies commands, executes built-in commands, resolves external executables through the system `PATH`, and manages the execution flow.
 
-The project is based on a CodeCrafters-style shell implementation, with additional compatibility adjustments for running on Windows with Java 21.
 
 ---
 
