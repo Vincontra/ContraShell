@@ -4,7 +4,6 @@ import java.util.List;
 public class ParsedCommand {
     public String command;
     public List<String> args;
-
     public static ParsedCommand fromInput(String line) {
         ParsedCommand res = new ParsedCommand();
         String[] parts = line.split(" ");
