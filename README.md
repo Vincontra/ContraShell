@@ -101,19 +101,6 @@ mvn -version
 
 ---
 
-## Running the project
-
-```bash
-cd src
-mvn -B package -Ddir=/tmp/codecrafters-build-shell-java
-java -jar /tmp/codecrafters-build-shell-java/codecrafters-shell.jar
-```
-
-Or use the provided script:
-
-```bash
-./src/your_program.sh
-```
 
 ### Example session
 
